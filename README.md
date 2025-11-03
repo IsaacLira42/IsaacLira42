@@ -1,5 +1,5 @@
 <h1>👋 Isaac Lira</h1>
-<p><strong>Estudante de ADS no IFRN-CNAT</strong> | Desenvolvedor Fullstack em formação
+<p><strong>Estudante de ADS no IFRN-CNAT</strong> | Desenvolvedor Fullstack
 
 ---
 
@@ -37,8 +37,8 @@ Se você tem um projeto interessante ou quer trocar uma ideia sobre tecnologia, 
 
 ### 📫 Como me encontrar
 <p>
-  <a href="mailto:isaaclira482@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://www.linkedin.com/in/isaaclira48"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://github.com/IsaacLira48"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
+  <a href="mailto:isaaclira422@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
+  <a href="https://www.linkedin.com/in/isaaclira42"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
+  <a href="https://github.com/IsaacLira42"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
 </p>
 
