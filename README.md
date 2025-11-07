@@ -23,7 +23,6 @@ Se você tem um projeto interessante ou quer trocar uma ideia sobre tecnologia, 
   <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="48" alt="nodejs logo" />
   <img src="https://skillicons.dev/icons?i=express" height="48" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=pnpm" height="48" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
