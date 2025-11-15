@@ -1,7 +1,5 @@
 <h1>👋 Isaac Lira</h1>
-<p><strong>Estudante de ADS no IFRN-CNAT</strong> | Desenvolvedor Fullstack
-
----
+<!-- <p><strong>Estudante de ADS no IFRN-CNAT</strong> | Desenvolvedor Fullstack -->
 
 ### 👨‍💻 Sobre mim
 
@@ -23,7 +21,7 @@ Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de 
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=django" height="48" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="django logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo" />
