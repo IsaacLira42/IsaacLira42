@@ -10,9 +10,6 @@ Olá! Me chamo **Isaac**, sou estudante de **Análise e Desenvolvimento de Siste
 📚 **Atualmente estudando:**  
 Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de desenvolvimento.
 
-🤝 **Aberto a colaborações:**  
-Se você tem um projeto interessante ou quer trocar uma ideia sobre tecnologia, bora conversar!
-
 ---
 
 ### 🛠 Linguagens e Ferramentas
