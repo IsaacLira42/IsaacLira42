@@ -21,7 +21,8 @@ Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de 
   <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo" />
   <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=cs" height="48" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="48" alt="visual studio logo" />
   <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo" />
   <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=figma" height="48" alt="figma logo" />
