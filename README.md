@@ -3,7 +3,9 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Me chamo **Isaac**, sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFRN - Campus Natal Central (CNAT)**. Estou me formando como **desenvolvedor fullstack**, com foco especial no **backend**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFRN – Campus Natal Central (CNAT)** e desenvolvedor full stack em formação, com foco em **backend**.
+
+🌐 **Portfólio:** <https://isaac-lira-portfolio.vercel.app>
 
 📚 **Atualmente estudando:**  
 Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de desenvolvimento.
