@@ -18,7 +18,8 @@ Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de 
 ---
 
 ### 📫 Como me encontrar
-<a href="mailto:isaaclira422@gmail.com"><img height="28" src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/isaaclira42"><img height="28" src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/IsaacLira42"><img height="28" src="https://skillicons.dev/icons?i=github" /></a>
-
+<p>
+  <a style="display:inline" href="mailto:isaaclira422@gmail.com"><img height="30" src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a style="display:inline" href="https://www.linkedin.com/in/isaaclira42"><img height="30" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a style="display:inline" href="https://github.com/IsaacLira42"><img height="30" src="https://skillicons.dev/icons?i=github" /></a>
+</p>
