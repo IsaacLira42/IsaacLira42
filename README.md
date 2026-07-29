@@ -17,8 +17,8 @@ Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de 
 ![Stack](https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,nextjs,java,angular,py,postgres,docker,postman,linux,git,github&perline=16&size=32)
 ---
 
-### 📫 Como me encontrar
+### 📫 Contato
 
-[![Email](https://skillicons.dev/icons?i=gmail&size=28)](mailto:isaaclira422@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&size=28)](https://www.linkedin.com/in/isaaclira42)
-[![GitHub](https://skillicons.dev/icons?i=github&size=28)](https://github.com/IsaacLira42)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaaclira422@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaaclira42)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacLira42)
