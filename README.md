@@ -14,13 +14,11 @@ Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de 
 
 ### 🛠 Linguagens e Ferramentas
 
-![Tecnologias](https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,nextjs,java,angular,py,postgres,docker,postman,linux,git,github)
+![Stack](https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,nextjs,java,angular,py,postgres,docker,postman,linux,git,github&perline=16&size=32)
 ---
 
 ### 📫 Como me encontrar
 <p>
-  <a href="mailto:isaaclira422@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-  <a href="https://www.linkedin.com/in/isaaclira42"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://github.com/IsaacLira42"><img src="https://skillicons.dev/icons?i=github" height="30" /></a>
+  <a href="mailto:isaaclira422@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&size=30" /></a><a href="https://www.linkedin.com/in/isaaclira42"><img src="https://skillicons.dev/icons?i=linkedin&size=30" /></a><a href="https://github.com/IsaacLira42"><img src="https://skillicons.dev/icons?i=github&size=30" /></a>
 </p>
 
