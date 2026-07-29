@@ -14,25 +14,7 @@ Arquitetura de software, APIs RESTful, testes automatizados e boas práticas de 
 
 ### 🛠 Linguagens e Ferramentas
 
-<div style="display: flex; flex-wrap: nowrap; gap: 8px; align-items: center;">
-  <img src="https://skillicons.dev/icons?i=html" height="48" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="48" alt="css3 logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="48" alt="typescript logo" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="48" alt="nodejs logo" />
-  <img src="https://skillicons.dev/icons?i=express" height="48" alt="express logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="48" alt="react logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="48" alt="nextjs logo" />
-  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo" />
-  <img src="https://skillicons.dev/icons?i=angular" height="48" alt="angular logo" />
-  <img src="https://skillicons.dev/icons?i=py" height="48" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="48" alt="postgres logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="48" alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="48" alt="postman logo" />
-  <img src="https://skillicons.dev/icons?i=linux" height="48" alt="linux logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git logo" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="github logo" />
-</div>
-
+![Tecnologias](https://skillicons.dev/icons?i=html,css,ts,nodejs,express,react,nextjs,java,angular,py,postgres,docker,postman,linux,git,github)
 ---
 
 ### 📫 Como me encontrar
